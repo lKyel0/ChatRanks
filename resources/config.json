@@ -1,0 +1,11 @@
+{
+  "RankDefault": {
+    "name": "user",
+    "display": "§7User§r"
+  },
+  "RankPerms": [
+    "admin"
+  ],
+  "messageFormat": "{playerDisplayName}: {message}",
+  "rankDisplayFormat": "§7(§r{rankDisplay}§7)§r"
+}

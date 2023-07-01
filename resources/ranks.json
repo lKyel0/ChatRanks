@@ -1,0 +1,10 @@
+[
+  {
+    "name": "user",
+    "display": "§7User§r"
+  },
+  {
+    "name": "admin",
+    "display": "§cAdmin"
+  }
+]
